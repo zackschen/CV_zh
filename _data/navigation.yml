@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "关于我"
     url: "#about-me"
 
-  - title: "News"
+  - title: "消息"
     url: "#-news"
 
-  - title: "Educations"
+  - title: "教育经历"
     url: "#-xl"
 
-  - title: "Publications"
+  - title: "论文发表"
     url: "#-lwzl"
 
-  - title: "Awards"
+  - title: "获奖情况"
     url: "/#-ryjx"
 
   # - title: "学术会议"

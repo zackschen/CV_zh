@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Cheng Chen"
-description              : "Computer Vision, Machine Learning, and Continual Learning"
+title                    : "陈程"
+description              : "计算机视觉，机器学习，持续学习，多模态"
 repository               : "zackschen/zackschen.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Cheng Chen"
+  name             : "陈程"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Electronic Science and Technology of China (UESTC)"
-  location         : "Chengdu, China"
+  bio              : "电子科技大学"
+  location         : "中国，成都"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=RS6YyYAAAAAJ"

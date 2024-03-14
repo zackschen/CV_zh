@@ -17,32 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am a second-year computer science Ph.D. student at University of Electronic Science and Technology of China (UESTC), advised by Prof. [Jingkuan Song](https://jingkuansong.github.io/) and Prof. [Lianli Gao](https://lianligao.github.io/). 
-Before that, I obtained my bachelor's degree at Southwest Petroleum University. 
-Then, I began to complete my master's degree in 2020 at UESTC and transferred to pursue my Ph.D. degree in 2022.  
+大家好，我是电子科技大学计算机学院，计算机科学与工程专业的博士二年级学生，导师是[宋井宽](https://jingkuansong.github.io/)教授和[高联丽](https://lianligao.github.io/)教授。
+我本科就读于西南石油大学的安全工程专业。
+之后，我于 2020 年考入电子科技大学攻读计算机硕士学位，导师为高联丽教授。
+并于 2022 年经过硕博连读考核，转为博士研究生，导师为宋井宽教授。 
 
-My research interest includes Continual Leanring in Computer Vision. 
-Now the focus of my research is mainly on investigating the behavior of Multimodel Large Language Model in Continual Learning paradigm.
+我的研究兴趣包括计算机视觉中的持续学习。
+现在，我的研究重点主要是研究多模型大语言模型在持续学习范式中的表现。
 
 <span class='anchor' id='-news'></span>
 
-# 🔥 News
-- *2023.10*: 🎉 Attainment of National Scholarship.
-- *2023.07*: 🎉 One paper was accepted by ACM Multimedia 2023.
-- *2022.07*: 🎉 One paper was accepted by IEEE Transactions on Image Processing (TIP).
-- *2022.07*: 🎉 One paper was accepted by ACM Multimedia 2022.
+# 🔥 消息
+- *2023.10*: 🎉 获得国家奖学金.
+- *2023.07*: 🎉 一篇论文被ACM Multimedia 2023接受.
+- *2022.07*: 🎉 一篇论文被IEEE Transactions on Image Processing (TIP)接受.
+- *2022.07*: 🎉 一篇论文被ACM Multimedia 2022接受.
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 Educations
-- *2022.09 - Now*, Ph.D. Candidate, <a href="https://en.uestc.edu.cn/"><img class="png" src="/images/UESTC_logo.png" width="20pt"></a> University of Electronic Science and Technology of China, School of Computer Science and Engineering, Computer Science and Technology, Chengdu, China
-- *2020.09 - 2022.06*, Master, <a href="https://en.uestc.edu.cn/"><img class="png" src="/images/UESTC_logo.png" width="20pt"></a> University of Electronic Science and Technology of China, School of Computer Science and Engineering, Computer Science and Technology, Chengdu, China
-- *2010.09 - 2014.06*, Bachelor, <a href="https://www.swpu.edu.cn/"><img class="png" src="/images/SWPU_logo.png" width="23pt"></a> 
-Southwest Petroleum University, School of Chemistry & Chemical Engineering, Security Engineering, Chengdu, China.
+# 🎓 教育经历
+- *2022.09 - Now*,     博士研究生, <a href="https://en.uestc.edu.cn/"><img class="png" src="/images/UESTC_logo.png" width="20pt"></a> 电子科技大学, 计算机科学与工程学院, 计算机科学与技术, 中国成都
+- *2020.09 - 2022.06*, 硕士研究生, <a href="https://en.uestc.edu.cn/"><img class="png" src="/images/UESTC_logo.png" width="20pt"></a> 电子科技大学, 计算机科学与工程学院, 计算机科学与技术, 中国成都
+- *2010.09 - 2014.06*, 本科, <a href="https://www.swpu.edu.cn/"><img class="png" src="/images/SWPU_logo.png" width="23pt"></a> 
+西南石油大学, 化学化工学院, 安全工程, 中国成都.
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Publications
+# 📝 论文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/CoIN_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -126,9 +127,9 @@ Keywords: Continual Learning, Gradient Porjection, SVD
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🥇 Honors and Awards
-- *2023* National Scholarship, UESTC
-- *2023* Outstanding Graduate Student Award, UESTC 
-- *2023* Academic First Prize Scholarship, UESTC
-- *2022* Academic Second Prize Scholarship, UESTC, UESTC
-- *2021* Academic Second Prize Scholarship, UESTC, UESTC
+# 🥇 获奖情况
+- *2023* 国家奖学金, 电子科技大学
+- *2023* 优秀研究生, 电子科技大学 
+- *2023* 学位一等奖学金, 电子科技大学
+- *2022* 学位二等奖学金, 电子科技大学
+- *2021* 学位二等奖学金, 电子科技大学
