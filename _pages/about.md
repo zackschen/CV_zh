@@ -28,10 +28,11 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 消息
+- *2024.10*: 🎉 一篇论文被NeurIPS 2024接收.
 - *2023.10*: 🎉 获得国家奖学金.
-- *2023.07*: 🎉 一篇论文被ACM Multimedia 2023接受.
-- *2022.07*: 🎉 一篇论文被IEEE Transactions on Image Processing (TIP)接受.
-- *2022.07*: 🎉 一篇论文被ACM Multimedia 2022接受.
+- *2023.07*: 🎉 一篇论文被ACM Multimedia 2023接收.
+- *2022.07*: 🎉 一篇论文被IEEE Transactions on Image Processing (TIP)接收.
+- *2022.07*: 🎉 一篇论文被ACM Multimedia 2022接收.
 
 <span class='anchor' id='-xl'></span>
 
@@ -45,14 +46,14 @@ redirect_from:
 
 # 📝 论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/CoIN_architecture.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='images/CoIN_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model](https://arxiv.org/abs/2403.08350)
 
 `Cheng Chen`, Junchen Zhu, Xu Luo, Hengtao Shen, Lianli Gao, Jingkuan Song. 
 
-Arxiv 2024
+NeurIPS 2024 Datasets and Benchmarks
 
 Keywords: Continual Learning, Instruction Tuning, Multimodel Large Language Model
 
