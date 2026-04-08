@@ -46,6 +46,50 @@ redirect_from:
 
 # 📝 论文
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/Janus-LoRA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning]
+
+`Cheng Chen`, Pengpeng Zeng, Yuyu Guo, Jingkuan Song, Heng Tao Shen, Lianli Gao 
+
+Submitted to ICML 2026
+
+Keywords: Continual Learning, LoRA, Gradient Porjection
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/CLI_architecture.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion]
+
+`Cheng Chen` (Equal First Author), Yuyu Guo, Pengpeng Zeng, Jingkuan Song, Peng Di, Hang Yu, Lianli Gao
+
+Submitted to ECCV 2026
+
+Keywords: Vision Fusion, Instruction Tuning, Multimodel Large Language Model
+
+[[Arxiv]](https://arxiv.org/pdf/2601.10710)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/VLZip_architecture.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VLZip: Unified Visual and Textual Compression for Interleaved Long-Context Modeling]
+
+Yuqi Zhang, `Cheng Chen`(Equal First Author), Yuyu Guo, Wenjie Yang, Lingchen Meng, Peng Di, Hang Yu, Zuxuan Wu, Yu-Gang Jiang
+
+Submitted to ECCV 2026
+
+Keywords: Ultra-long, interleaved image-text, Instruction Tuning, Multimodel Large Language Model
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='images/CoIN_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,7 +106,7 @@ Keywords: Continual Learning, Instruction Tuning, Multimodel Large Language Mode
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/IBM_architecture.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/IBM_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Redundancy-Free Sub-networks in Continual Learning](https://arxiv.org/abs/2312.00840)
@@ -126,9 +170,17 @@ Keywords: Continual Learning, Gradient Porjection, SVD
 </div>
 </div> 
 
+<span class='anchor' id='-gzsx'></span>
+
+# 💼 工作实习
+- *2025.06 - 2026.01*, 蚂蚁集团, 研究实习生, 多模态大语言模型
+
+围绕多模态大模型的长上下文建模与跨模态融合开展研究：构建了一个由视频与文档组成的 280K+ token 超长上下文数据集，用于提升长程推理能力；提出了 Cross-Layer Injection (CLI) 的 many-to-many 视觉融合架构，缓解视觉特征瓶颈，并在 18 个细粒度感知基准上取得了 SOTA 性能。
+
 <span class='anchor' id='-ryjx'></span>
 
 # 🥇 获奖情况
+- *2025* 四川省计算机学会（SCF）年度优秀学生论文奖, 四川省计算机学会
 - *2023* 国家奖学金, 电子科技大学
 - *2023* 优秀研究生, 电子科技大学 
 - *2023* 学位一等奖学金, 电子科技大学
